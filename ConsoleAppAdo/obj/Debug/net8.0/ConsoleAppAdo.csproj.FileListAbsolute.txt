@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\TaskAdo\ConsoleAppAdo\bin\Debug\net8.0\ConsoleAppAdo.exe
+C:\Users\hp\Desktop\TaskAdo\ConsoleAppAdo\bin\Debug\net8.0\ConsoleAppAdo.deps.json
+C:\Users\hp\Desktop\TaskAdo\ConsoleAppAdo\bin\Debug\net8.0\ConsoleAppAdo.runtimeconfig.json
+C:\Users\hp\Desktop\TaskAdo\ConsoleAppAdo\bin\Debug\net8.0\ConsoleAppAdo.dll
+C:\Users\hp\Desktop\TaskAdo\ConsoleAppAdo\bin\Debug\net8.0\ConsoleAppAdo.pdb
+C:\Users\hp\Desktop\TaskAdo\ConsoleAppAdo\obj\Debug\net8.0\ConsoleAppAdo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\TaskAdo\ConsoleAppAdo\obj\Debug\net8.0\ConsoleAppAdo.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\TaskAdo\ConsoleAppAdo\obj\Debug\net8.0\ConsoleAppAdo.AssemblyInfo.cs
+C:\Users\hp\Desktop\TaskAdo\ConsoleAppAdo\obj\Debug\net8.0\ConsoleAppAdo.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\TaskAdo\ConsoleAppAdo\obj\Debug\net8.0\ConsoleAppAdo.dll
+C:\Users\hp\Desktop\TaskAdo\ConsoleAppAdo\obj\Debug\net8.0\refint\ConsoleAppAdo.dll
+C:\Users\hp\Desktop\TaskAdo\ConsoleAppAdo\obj\Debug\net8.0\ConsoleAppAdo.pdb
+C:\Users\hp\Desktop\TaskAdo\ConsoleAppAdo\obj\Debug\net8.0\ConsoleAppAdo.genruntimeconfig.cache
+C:\Users\hp\Desktop\TaskAdo\ConsoleAppAdo\obj\Debug\net8.0\ref\ConsoleAppAdo.dll
