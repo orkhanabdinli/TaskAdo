@@ -1,4 +1,4 @@
-﻿using Core;
+﻿using ConsoleAppAdo;
 using Microsoft.Data.SqlClient;
 using System.Text.Json;
 
@@ -30,6 +30,9 @@ using (HttpClient client = new HttpClient())
         }
     }
     Console.WriteLine("Welcome");
+    Console.WriteLine("1 - Add to database from API\n"+
+                      "2 - Show posts that are not in Database\n"+
+                      "3 - Get users post count");
     Console.WriteLine("--------------------------\n" +
                           "Choose the option:");
     string? option = Console.ReadLine();

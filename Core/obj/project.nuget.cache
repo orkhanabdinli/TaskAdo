@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f2ampKWpySb4erLFt6AdqGoRb4tNod5pAMXu8+kDwON6NMqvKbKRvwJS4Im3pbSTuAdyyc+p/rsEXZT7mS566A==",
+  "dgSpecHash": "Av0ukW5gLEAHzq3gmK99Ny3/2Zdw9bPtoyCSu9Tvhf/Kc7RzeQ2vLe181LmIiKH2XsBY59NYKaZJhrOQlAe06A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\TaskAdo\\Core\\Core.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\TaskAdo\\Core\\ConsoleAppAdo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

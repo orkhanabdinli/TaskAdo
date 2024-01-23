@@ -2665,9 +2665,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\TaskAdo\\Core\\Core.csproj",
-      "projectName": "Core",
-      "projectPath": "C:\\Users\\hp\\Desktop\\TaskAdo\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\TaskAdo\\Core\\ConsoleAppAdo.csproj",
+      "projectName": "ConsoleAppAdo",
+      "projectPath": "C:\\Users\\hp\\Desktop\\TaskAdo\\Core\\ConsoleAppAdo.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\hp\\Desktop\\TaskAdo\\Core\\obj\\",
       "projectStyle": "PackageReference",
