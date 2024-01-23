@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppAdo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2fe9d0176226e1332dbba4ba58dcc1b3c19f1a8c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2030a9904d34d55920601f618b05163b9f636fa8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppAdo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppAdo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

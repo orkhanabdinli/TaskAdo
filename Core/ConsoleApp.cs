@@ -11,9 +11,10 @@ using (HttpClient client = new HttpClient())
     //    Console.WriteLine($"UserId: {post.userId}; Id: {post.id}; title: {post.title}");
     //}
 
-    string connString = @"Server=DESKTOP-Q9OE9MV\SQLEXPRESS;Database=TaskDb;Trusted_Connection=True;";
-    void Add(int id)
+    string connString = @"Server=DESKTOP-Q9OE9MV\SQLEXPRESS;Database=TaskDb;Trusted_Connection=true;Encrypt=false;;";
+    void Add(int? id)
     {
+        if (id is null) throw new ArgumentNullException();
         using (SqlConnection conn = new SqlConnection(connString))
         {
             conn.Open();
@@ -49,7 +50,6 @@ using (HttpClient client = new HttpClient())
                     int Id = Convert.ToInt32(Console.ReadLine());
                     Add(Id);
                     break;
-
             }
         }
     }
